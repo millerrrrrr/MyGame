@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="mainColor">#FAF8EF</color>
+
+    <color name="bg_game_layout">#BBADA0</color>
+
+    <color name="bg_item_normal">#CCC0B3</color>
+
+    <color name="bg_item_2Back">#EEE4DA</color>
+    <color name="bg_item_4Back">#EDE0C8</color>
+    <color name="bg_item_8Back">#F2B179</color>
+    <color name="bg_item_16Back">#F59563</color>
+    <color name="bg_item_32Back">#F67C5F</color>
+    <color name="bg_item_64Back">#F65E3B</color>
+    <color name="bg_item_128Back">#EDCF72</color>
+    <color name="bg_item_256Back">#EDC750</color>
+    <color name="bg_item_512Back">#EDC850</color>
+    <color name="bg_item_1024Back">#ECC640</color>
+    <color name="bg_item_2048Back">#EDC22D</color>
+
+
+    <color name="text_2_color">#776E65</color>
+    <color name="text_4_color">#776E65</color>
+    <color name="text_other_color">#F9F6F2</color>
+
+</resources>
